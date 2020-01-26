@@ -1,4 +1,4 @@
-## 1910: 
+# 1910: 
 
 PROF DEL MORAL: will finish relationship grouping
 
@@ -13,7 +13,7 @@ GRACE/EMILY make name key
 GRACE/EMILY: name key
 
 
-## 1930:
+### 1930:
 
 PROF DEL MORAL: fixing anomalous errors in sex/race
 
